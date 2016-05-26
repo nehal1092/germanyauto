@@ -1,6 +1,10 @@
 <?php
 require_once('util/main.php');
 require_once('model/product_db.php');
+require_once('config.php');
+
+
+}
 
 // Set the featured product IDs in an array
 $product_ids = array(1, 7, 9);
